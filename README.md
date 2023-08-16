@@ -1,5 +1,5 @@
 <hr>
-<h2>🌟 Meu Portfólio 🌟</h2>
+<h1>🌟 Meu Portfólio 🌟</h1>
 
 Olá! Meu nome é Luis Felipe e este é o repositório do meu portfólio pessoal. Como Desenvolvedor Full-Stack, acredito no poder do código para transformar e melhorar a vida das pessoas. Confira abaixo um pouco sobre o que você encontrará aqui.
 
