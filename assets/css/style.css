@@ -335,6 +335,9 @@ footer {
 @media (max-width: 768px) {
 	.header {
 		gap: 10px;
+		flex-direction: row;
+		padding: 10px 50px;
+		position: relative;
 	}
 
 	#home h1 {
@@ -346,7 +349,7 @@ footer {
 	}
 
 	.nav {
-		flex-direction: column;
+		flex-direction: row;
 		gap: 10px;
 	}
 
