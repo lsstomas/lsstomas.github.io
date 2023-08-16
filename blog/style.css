@@ -9,6 +9,13 @@
 	text-decoration: none;
 }
 
+:root {
+	--primary-color: #fff;
+	--secondary-color: #000;
+	--theme: #ffa515;
+	--fade: #d38b18;
+}
+
 body {
 	font-family: "Arial", sans-serif;
 	line-height: 1.6;
@@ -190,7 +197,8 @@ footer {
 	transform: translateY(0);
 }
 
-section, article {
+section,
+article {
 	display: flex;
 	flex-flow: column wrap;
 	gap: 15px;
